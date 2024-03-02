@@ -1,22 +1,31 @@
-# Proprietary-Media-Codecs-for-Fedora
-A bash script to install the proprietary codecs needed for your Fedora installation.
+# Bash-Scripts-for-Fedora
+Bash scripts for making your Fedora installation easier to use.
+
+An index to every file listed under this repository:
+
+> **codecs.sh** (referred to as *Script 1*) - Installs media proprietary codecs and PAVUControl.
+> **neotop.sh** (referred to as *Script 2*) - Installs Neofetch and htop.
+> **update.sh** (referred to as *Script 3*) - Checks for updates and prompts to install them.
 
 ## The following is installed using this script:
 
 
-[] Gstreaner1-plugins
+[] Gstreaner1-plugins (Script 1)
 
-[] Lame
+[] Lame (Script 1)
 
-[] Lame-devel
+[] Lame-devel (Script 1)
 
-[] YouTube-dl
+[] YouTube-dl (Script 1)
 
-[] FFmpeg
+[] FFmpeg (Script 1)
 
-[] FFmpeg-devel
+[] FFmpeg-devel (Script 1)
 
-[] Pulse Audio Volume Control* (GTK) (Non-proprietary)
+[] Pulse Audio Volume Control* (GTK) (Non-proprietary) (Script 1)
 
+[] Neofetch (Script 2)
 
-*PAVUControl allows you to maunally adjust Bluetooth audio latency and more
+[] htop (Script 2)
+
+_*PAVUControl allows you to maunally adjust Bluetooth audio latency and more_
