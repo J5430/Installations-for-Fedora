@@ -3,9 +3,13 @@ Bash scripts for making your Fedora installation easier to use.
 
 An index to every file listed under this repository:
 
-> **codecs.sh** (referred to as *Script 1*) - Installs media proprietary codecs and PAVUControl.
-> **neotop.sh** (referred to as *Script 2*) - Installs Neofetch and htop.
-> **update.sh** (referred to as *Script 3*) - Checks for updates and prompts to install them.
+
+- **codecs.sh** (referred to as *Script 1*) - Installs media proprietary codecs and PAVUControl.
+
+- **neotop.sh** (referred to as *Script 2*) - Installs Neofetch and htop.
+
+- **update.sh** (referred to as *Script 3*) - Checks for updates and prompts to install them.
+
 
 ## The following is installed using this script:
 
