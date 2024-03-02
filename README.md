@@ -11,10 +11,10 @@ An index to every file listed under this repository:
 - **update.sh** (referred to as *Script 3*) - Checks for updates and prompts to install them.
 
 
-## The following is installed using this script:
+## The following is installed using these scripts:
 
 
-[] Gstreaner1-plugins (Script 1)
+[] Gstreamer1-plugins (Script 1)
 
 [] Lame (Script 1)
 
